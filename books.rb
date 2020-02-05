@@ -1,0 +1,4 @@
+class Books < Products
+
+
+end
